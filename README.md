@@ -13,7 +13,7 @@ Cleaning of a customer marketing campaign dataset in Excel, preparing it for ana
 
 ## Dataset overview
 
-- **Source:** downloaded from Kaggle (add the link to the dataset page here and credit the original author)
+- **Source:** downloaded from Kaggle (https://storage.googleapis.com/kaggle-data-sets/1546318/2549419/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20261105%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261105T145140Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=56b2a71d719b29133eadc138cd72cc123707ab181c15f9d10dedd3aa7e0273bfd0ee970573769bbc99fd4e5e33b53c7bbaa0fb66c2fef3854b2288fc2421731d408ed2434b354f9d080a903f5e6cbaa864c24be18ff551c408e09c9cc2899f2e02a1d528c2ebcc0da76371878b417ccfe936ea48125f91ae6a4694796f66c1da2e9ff59491fa2edbdb7f492317e15b0c6885a6cfa601c3856d3fa31278fc760574a204e6c4f2341bb8b432c2e38a3d9949f1b1e6c1a1aba05f26115163db018e74d310c3cf6a258eab4c875d8628176ecee6cbc60c1b50f642ce8c9242db76bb835eb190c55c570972f8588fb734182f72829047569bc31d0d87187ac47d3d8b)
 - **Original:** 2,240 customers, 29 columns
 - **Cleaned:** 2,053 customers, 33 columns
 - **Covers:** customer demographics (birth year, education, marital status, income, children), spending by product category (wine, fruit, meat, fish, sweets, gold), purchases by channel (web, catalog, store), and responses to marketing campaigns
